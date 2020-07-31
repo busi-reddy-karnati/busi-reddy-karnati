@@ -1,6 +1,10 @@
 ### Hi there 👋
-I'm presently working as a Software Developer.
-
+I'm a Software Developer.
+🌱 I’m currently learning to code!( I doubt if someone isn't)
+👯 I’m looking to collaborate on anything interesting and has a great deal of learning.
+📫 How to reach me: mail me @ busisatya@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: Why not try another time?
 <!--
 **busi-reddy-karnati/busi-reddy-karnati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
