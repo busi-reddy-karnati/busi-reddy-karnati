@@ -4,7 +4,7 @@ I'm a Software Developer.
 
 👯 I’m looking to collaborate on anything interesting and has a great deal of learning.
 
-📫 How to reach me: mail me @ busisatya@gmail.com
+📫 How to reach me: mail me @ busisatya[at]gmail[dot]com
 
 😄 Pronouns: He/Him
 
