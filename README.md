@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Busi Reddy 👋</h1>
 
 <p align="center">
-  <b>CS @ NYU</b> &nbsp;•&nbsp; Developer @ <a href="https://github.com/AnubisLMS">AnubisLMS</a> &nbsp;•&nbsp; 📍 Brooklyn, NY
+  <b>Engineer @ <a href="https://github.com/illumio">Illumio</a></b> &nbsp;•&nbsp; Developer @ <a href="https://github.com/AnubisLMS">AnubisLMS</a> &nbsp;•&nbsp; 📍 Brooklyn, NY
 </p>
 
 <p align="center">
@@ -17,10 +17,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Science student at **New York University**
+- 💼 Engineer at **[Illumio](https://github.com/illumio)**
 - 🛠️ Building & maintaining **[Anubis LMS](https://github.com/AnubisLMS/Anubis)** — a distributed Learning Management System used to automate Computing Science courses at NYU
+- 🔧 Focused on **Backend Engineering** and **Infrastructure Engineering**
+- 🤖 Interested in getting **LLMs to solve real user problems** — especially in **Education** and **Health**
 - 🌱 Passionate about **distributed systems**, **developer tooling**, and **open source**
-- ☁️ Contributor to cloud infrastructure & open-source ecosystems
 
 ---
 
