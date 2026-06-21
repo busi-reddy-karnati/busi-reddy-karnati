@@ -4,15 +4,6 @@
   <b>Engineer @ <a href="https://github.com/illumio">Illumio</a></b> &nbsp;•&nbsp; Developer @ <a href="https://github.com/AnubisLMS">AnubisLMS</a> &nbsp;•&nbsp; 📍 Brooklyn, NY
 </p>
 
-<p align="center">
-  <a href="https://github.com/busi-reddy-karnati?tab=followers">
-    <img src="https://img.shields.io/github/followers/busi-reddy-karnati?label=Followers&style=for-the-badge&color=2bbc8a" alt="Followers" />
-  </a>
-  <a href="https://github.com/busi-reddy-karnati">
-    <img src="https://komarev.com/ghpvc/?username=busi-reddy-karnati&label=Profile%20views&color=2bbc8a&style=for-the-badge" alt="Profile views" />
-  </a>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
