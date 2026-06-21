@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Busi Reddy 👋</h1>
 
 <p align="center">
-  <b>Engineer @ <a href="https://github.com/illumio">Illumio</a></b> &nbsp;•&nbsp; Developer @ <a href="https://github.com/AnubisLMS">AnubisLMS</a> &nbsp;•&nbsp; 📍 Brooklyn, NY
+  <b>Engineer @ <a href="https://github.com/illumio">Illumio</a></b> &nbsp;•&nbsp; Developer @ <a href="https://github.com/AnubisLMS">AnubisLMS</a> &nbsp;•&nbsp; 📍 San Francisco, CA
 </p>
 
 ---
