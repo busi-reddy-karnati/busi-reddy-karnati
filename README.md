@@ -36,7 +36,7 @@ I'm an **active contributor** to several open-source and production projects acr
 | [**Fitnesswispr**](https://github.com/busi-reddy-karnati/Fitnesswispr) | iOS fitness application | `Swift` | 📱 Mobile |
 | [**claude-manager**](https://github.com/busi-reddy-karnati/claude-manager) | Tooling around Claude / developer workflows | `Python` | 🤖 Tooling |
 
-> 💼 Also a contributor to organizations including **[@facebook](https://github.com/facebook)** and **[@illumio](https://github.com/illumio)**.
+> 💼 Also a contributor to organizations including **[@illumio](https://github.com/illumio)**.
 
 ---
 
@@ -58,7 +58,7 @@ I'm an **active contributor** to several open-source and production projects acr
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=busi-reddy-karnati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=busi-reddy-karnati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=busi-reddy-karnati&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
