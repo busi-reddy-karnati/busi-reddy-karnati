@@ -47,19 +47,6 @@ I'm an **active contributor** to several open-source and production projects acr
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=busi-reddy-karnati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=busi-reddy-karnati&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=busi-reddy-karnati&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
