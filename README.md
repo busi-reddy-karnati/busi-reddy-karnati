@@ -1,15 +1,13 @@
 <h1 align="center">Hi there, I'm Busi Reddy 👋</h1>
 
 <p align="center">
-  <b>Engineer @ <a href="https://github.com/illumio">Illumio</a></b> &nbsp;•&nbsp; Developer @ <a href="https://github.com/AnubisLMS">AnubisLMS</a> &nbsp;•&nbsp; 📍 San Francisco, CA
+  📍 San Francisco, CA
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 💼 Engineer at **[Illumio](https://github.com/illumio)**
-- 🛠️ Building & maintaining **[Anubis LMS](https://github.com/AnubisLMS/Anubis)** — a distributed Learning Management System used to automate Computing Science courses at NYU
 - 🔧 Focused on **Backend Engineering** and **Infrastructure Engineering**
 - 🤖 Interested in getting **LLMs to solve real user problems** — especially in **Education** and **Health**
 - 🌱 Passionate about **distributed systems**, **developer tooling**, and **open source**
@@ -27,8 +25,6 @@ I'm an **active contributor** to several open-source and production projects acr
 | [**elliotchance / orderedmap**](https://github.com/elliotchance/orderedmap) | An ordered map in Go with amortized O(1) for Set, Get, Delete and Len | `Go` | ⭐ 1k |
 | [**Fitnesswispr**](https://github.com/busi-reddy-karnati/Fitnesswispr) | iOS fitness application | `Swift` | 📱 Mobile |
 | [**claude-manager**](https://github.com/busi-reddy-karnati/claude-manager) | Tooling around Claude / developer workflows | `Python` | 🤖 Tooling |
-
-> 💼 Also a contributor to organizations including **[@illumio](https://github.com/illumio)**.
 
 ---
 
